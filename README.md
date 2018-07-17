@@ -9,3 +9,5 @@ $ tar xf gcc-linaro-6.4.1-2017.11-x86_64_arm-linux-gnueabihf.tar.xz
 
 $ export CC=`pwd`/gcc-linaro-6.4.1-2017.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-
 ```
+## References
+[JF4418](https://github.com/pdtechvn/jf4418/wiki) - Wiki
